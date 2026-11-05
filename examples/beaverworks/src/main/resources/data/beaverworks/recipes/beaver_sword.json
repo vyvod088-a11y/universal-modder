@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " I ",
+    " F ",
+    " S "
+  ],
+  "key": {
+    "F": {
+      "item": "beaverworks:beaver_fiber"
+    },
+    "I": {
+      "item": "minecraft:iron_ingot"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "beaverworks:beaver_sword"
+  }
+}

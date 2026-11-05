@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "FFF",
+    "F F",
+    "F F"
+  ],
+  "key": {
+    "F": {
+      "item": "beaverworks:beaver_fiber"
+    }
+  },
+  "result": {
+    "item": "beaverworks:beaver_leggings"
+  }
+}
